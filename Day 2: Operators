@@ -12,6 +12,8 @@ public class Solution {
 
     // Complete the solve function below. 
     static void solve(double meal_cost, int tip_percent, int tax_percent) {
+    
+    //here we are printing the solution in the given format using String.format and precising the double value to 0 by using %.0f
         
         System.out.println(
             String.format("%.0f", meal_cost + ((tip_percent*meal_cost)/100) + ((tax_percent*meal_cost)/100))
