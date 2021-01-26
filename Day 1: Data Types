@@ -20,7 +20,7 @@ public class Solution {
             int a = scan.nextInt();
             double b = scan.nextDouble();
 	    
-	   
+	   //must initialize the next line after integer and double defined consecutively
             scan.nextLine();
             String c = scan.nextLine(); 
 	    
