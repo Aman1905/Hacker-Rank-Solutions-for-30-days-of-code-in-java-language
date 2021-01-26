@@ -15,9 +15,12 @@ public class Solution {
 		
         Scanner scan = new Scanner(System.in);
         
-               
+           //variables defined by me
+	   
             int a = scan.nextInt();
             double b = scan.nextDouble();
+	    
+	   
             scan.nextLine();
             String c = scan.nextLine(); 
 	    
