@@ -20,9 +20,7 @@ public class Solution {
             double b = scan.nextDouble();
             scan.nextLine();
             String c = scan.nextLine(); 
-           
-            
-            // String str3 = c.concat(s);
+	    
             
             System.out.println(i + a);
             System.out.println(d + b);
