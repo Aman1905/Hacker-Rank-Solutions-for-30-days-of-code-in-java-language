@@ -33,6 +33,7 @@ public class Solution {
             }
             
             System.out.print(" "); 
+            //finally printing the whole output
             //giving a space between the strings
             
             for (int j=0; j<S.length(); j++) //iterating through each letter ofString S {
