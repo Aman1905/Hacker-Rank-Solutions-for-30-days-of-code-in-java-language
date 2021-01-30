@@ -37,7 +37,9 @@ public class Solution {
             for (int j=0; j<S.length(); j++) //iterating through each letter ofString S {
                 
                 if (j%2 == 1)  //checking for even places of String {
+                
                     System.out.print(S.charAt(j));
+                    //The charAt() method returns the character at the specified index in a string.
                 }
                 
             }
