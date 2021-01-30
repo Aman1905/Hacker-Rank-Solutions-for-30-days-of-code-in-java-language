@@ -15,7 +15,7 @@ public class Solution {
         String S;
         //defining a string varible S
         
-        for (int i=0; i<T; i++) {
+        for (int i=0; i<T; i++) //iterating through the no of test cases given by user {
         
             S = sc.next();
             
