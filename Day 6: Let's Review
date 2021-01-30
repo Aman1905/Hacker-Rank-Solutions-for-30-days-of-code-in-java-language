@@ -16,6 +16,7 @@ public class Solution {
         //defining a string varible S
         
         for (int i=0; i<T; i++) {
+        
             S = sc.next();
             
             for (int j=0; j<S.length(); j++){
