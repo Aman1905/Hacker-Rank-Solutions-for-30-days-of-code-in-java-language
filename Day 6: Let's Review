@@ -25,6 +25,7 @@ public class Solution {
                 
                 if (j%2 == 0) {
                    System.out.print(S.charAt(j));
+                   //The charAt() method returns the character at the specified index in a string.
                 }
                 
             }
