@@ -21,7 +21,7 @@ public class Solution {
             // taking user input of the strings
             //that no. of times defined by user (T)
             
-            for (int j=0; j<S.length(); j++){
+            for (int j=0; j<S.length(); j++) //iterating through each letter ofString S {
                 
                 if (j%2 == 0) {
                    System.out.print(S.charAt(j));
