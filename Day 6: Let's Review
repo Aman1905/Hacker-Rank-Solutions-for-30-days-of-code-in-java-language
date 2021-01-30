@@ -13,6 +13,7 @@ public class Solution {
         //taking user input for test cases
         
         String S;
+        //defining a string varible S
         
         for (int i=0; i<T; i++) {
             S = sc.next();
